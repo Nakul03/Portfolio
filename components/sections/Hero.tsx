@@ -22,17 +22,17 @@ export function Hero() {
       <div className="absolute inset-0">
         <div className="absolute inset-0 bg-cyber-grid bg-grid opacity-20" />
         {/* Scanning lines */}
-        <motion.div
+        {/* <motion.div
           className="absolute top-0 left-0 w-full h-0.5 bg-gradient-to-r from-transparent via-cyan-400 to-transparent"
           //@ts-ignore
           animate={{ y: [0, window.innerHeight || 800] }}
           transition={{ duration: 6, repeat: Infinity, ease: "linear" }}
-        />
-        <motion.div
+        /> */}
+        {/* <motion.div
           className="absolute top-0 left-0 w-0.5 h-full bg-gradient-to-b from-transparent via-purple-400 to-transparent"
           animate={{ x: [0, window.innerWidth || 1200] }}
           transition={{ duration: 6, repeat: Infinity, ease: "linear", delay: 1 }}
-        />
+        /> */}
       </div>
 
       {/* Floating particles */}

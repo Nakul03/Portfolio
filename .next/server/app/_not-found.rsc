@@ -1,5 +1,5 @@
 1:HL["/_next/static/css/2b9a464cf7eb8ab6.css","style"]
-0:["FKLrRRElrnltotg73UUrT",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/2b9a464cf7eb8ab6.css","precedence":"next"}]],"$L3"]]]]
+0:["x5fHBunYd7iediXStL_oG",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/2b9a464cf7eb8ab6.css","precedence":"next"}]],"$L3"]]]]
 4:I{"id":1443,"chunks":["272:static/chunks/webpack-b5ac154ae9deee4f.js","971:static/chunks/fd9d1056-3d7963eb58015c58.js","864:static/chunks/864-d7fd62aadcaf89ee.js"],"name":"","async":false}
 5:I{"id":8639,"chunks":["272:static/chunks/webpack-b5ac154ae9deee4f.js","971:static/chunks/fd9d1056-3d7963eb58015c58.js","864:static/chunks/864-d7fd62aadcaf89ee.js"],"name":"","async":false}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Nakul Pise - Full Stack & DevOps Developer"}],["$","meta","2",{"name":"description","content":"Portfolio of Nakul Pise, a passionate Full Stack and DevOps Developer specializing in modern web technologies and cloud infrastructure."}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
